@@ -1,0 +1,6 @@
+@OnlineShop.ChatService_HostAddress = http://localhost:5219
+
+GET {{OnlineShop.ChatService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
